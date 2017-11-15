@@ -1,0 +1,15 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1447015237013-0e80b2786ddc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=a5ca9983330b1ab1e9e0bcedae984c90");
+  background-size: 100%;
+  background-attachment: fixed;
+  color: white;
+  font-family: "Montserrat";
+}
+
+h2 {
+  display: inline;
+}
+
+#start {
+  margin: 10px;
+}
