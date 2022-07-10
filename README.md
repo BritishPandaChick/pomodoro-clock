@@ -1,9 +1,10 @@
-# Pomodoro Clock
+# 25 + 5 Clock
 freeCodeCamp Frontend Libraries project. 25 + 5 clock or Pomodoro Clock.
 
 ## Dependencies 
 * HTML
 * CSS
+* Bootstrap
 * React
 
 ## Instructions
