@@ -15,6 +15,6 @@ This repository is based on code from the create-react-app and Landon Schlangen'
 
 ## Acknowledgements
 * Dylan Israel
-* Landon Schlangen
+* Florin Pop
 * freeCodeCamp
 * React
